@@ -1,0 +1,6 @@
+{
+  "name": "pack",
+  "version": "0.0.1",
+  "description": "sway's opinionated personal Claude Code library: skills, agents, commands, hooks.",
+  "author": { "name": "sway" }
+}
