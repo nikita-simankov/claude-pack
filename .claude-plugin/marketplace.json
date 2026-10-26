@@ -1,6 +1,9 @@
 {
   "name": "claude-pack",
-  "owner": { "name": "sway" },
+  "owner": {
+    "name": "sway"
+  },
+  "description": "sway's personal Claude Code library.",
   "plugins": [
     {
       "name": "pack",
