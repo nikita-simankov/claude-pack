@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-pack": {
+      "source": {
+        "source": "github",
+        "repo": "nikita-simankov/claude-pack",
+        "ref": "claude/project-thread-yi0jd6"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "pack@claude-pack": true
+  }
+}
